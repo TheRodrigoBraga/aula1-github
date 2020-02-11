@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Rodrigo
- *
- */
-module course {
-}
